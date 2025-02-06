@@ -1,0 +1,14 @@
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\bin\Debug\net7.0\JoggingTracker.exe
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\bin\Debug\net7.0\JoggingTracker.deps.json
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\bin\Debug\net7.0\JoggingTracker.runtimeconfig.json
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\bin\Debug\net7.0\JoggingTracker.dll
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\bin\Debug\net7.0\JoggingTracker.pdb
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\obj\Debug\net7.0\JoggingTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\obj\Debug\net7.0\JoggingTracker.AssemblyInfoInputs.cache
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\obj\Debug\net7.0\JoggingTracker.AssemblyInfo.cs
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\obj\Debug\net7.0\JoggingTracker.csproj.CoreCompileInputs.cache
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\obj\Debug\net7.0\JoggingTracker.dll
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\obj\Debug\net7.0\refint\JoggingTracker.dll
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\obj\Debug\net7.0\JoggingTracker.pdb
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\obj\Debug\net7.0\JoggingTracker.genruntimeconfig.cache
+C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\JoggingTracker\obj\Debug\net7.0\ref\JoggingTracker.dll

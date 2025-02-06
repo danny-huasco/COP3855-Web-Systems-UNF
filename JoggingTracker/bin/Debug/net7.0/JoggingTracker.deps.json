@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "JoggingTracker/1.0.0": {
+        "runtime": {
+          "JoggingTracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JoggingTracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
