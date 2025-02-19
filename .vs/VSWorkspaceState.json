@@ -1,7 +1,17 @@
 {
+<<<<<<< HEAD
   "ExpandedNodes": [
     ""
   ],
   "SelectedNode": "\\helloWorld",
+=======
+<<<<<<< HEAD
+  "ExpandedNodes": [
+    ""
+  ],
+=======
+  "ExpandedNodes": [],
+>>>>>>> 96adcdf730ef5eeb1798d55c7dbf6a136c39bddf
+>>>>>>> c9709a529a7efaece4318e2f6b0b210a384c4c0c
   "PreviewInSolutionExplorer": false
 }
