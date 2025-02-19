@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarpetCalculatorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00f56384f19559aad2b14f34823f20120207ec7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96adcdf730ef5eeb1798d55c7dbf6a136c39bddf")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarpetCalculatorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarpetCalculatorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
