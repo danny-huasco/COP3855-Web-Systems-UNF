@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\obj\Debug\net8.0\RealEstateInvestmentActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\obj\Debug\net8.0\RealEstateInvestmentActivity.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\obj\Debug\net8.0\RealEstateInvestmentActivity.AssemblyInfo.cs
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\obj\Debug\net8.0\RealEstateInvestmentActivity.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\obj\Debug\net8.0\RealEstateInvestmentActivity.sourcelink.json
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\bin\Debug\net8.0\RealEstateInvestmentActivity.exe
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\bin\Debug\net8.0\RealEstateInvestmentActivity.deps.json
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\bin\Debug\net8.0\RealEstateInvestmentActivity.runtimeconfig.json
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\bin\Debug\net8.0\RealEstateInvestmentActivity.dll
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\bin\Debug\net8.0\RealEstateInvestmentActivity.pdb
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\obj\Debug\net8.0\RealEstateInvestmentActivity.dll
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\obj\Debug\net8.0\refint\RealEstateInvestmentActivity.dll
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\obj\Debug\net8.0\RealEstateInvestmentActivity.pdb
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\obj\Debug\net8.0\RealEstateInvestmentActivity.genruntimeconfig.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\RealEstateInvestmentActivity\obj\Debug\net8.0\ref\RealEstateInvestmentActivity.dll

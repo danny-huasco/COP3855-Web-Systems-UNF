@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JoggingTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3419e3aa7031fe3dc382875e13bd70c0f67fdde")]
+>>>>>>> 96adcdf730ef5eeb1798d55c7dbf6a136c39bddf
 [assembly: System.Reflection.AssemblyProductAttribute("JoggingTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JoggingTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

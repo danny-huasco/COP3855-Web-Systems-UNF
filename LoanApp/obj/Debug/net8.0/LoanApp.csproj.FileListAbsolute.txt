@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\bin\Debug\net8.0\LoanApp.exe
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\bin\Debug\net8.0\LoanApp.deps.json
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\bin\Debug\net8.0\LoanApp.runtimeconfig.json
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\bin\Debug\net8.0\LoanApp.dll
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\bin\Debug\net8.0\LoanApp.pdb
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\obj\Debug\net8.0\LoanApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\obj\Debug\net8.0\LoanApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\obj\Debug\net8.0\LoanApp.AssemblyInfo.cs
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\obj\Debug\net8.0\LoanApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\obj\Debug\net8.0\LoanApp.sourcelink.json
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\obj\Debug\net8.0\LoanApp.dll
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\obj\Debug\net8.0\refint\LoanApp.dll
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\obj\Debug\net8.0\LoanApp.pdb
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\obj\Debug\net8.0\LoanApp.genruntimeconfig.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\LoanApp\obj\Debug\net8.0\ref\LoanApp.dll

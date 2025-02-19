@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\bin\Debug\net8.0\NFactorial.exe
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\bin\Debug\net8.0\NFactorial.deps.json
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\bin\Debug\net8.0\NFactorial.runtimeconfig.json
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\bin\Debug\net8.0\NFactorial.dll
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\bin\Debug\net8.0\NFactorial.pdb
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\obj\Debug\net8.0\NFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\obj\Debug\net8.0\NFactorial.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\obj\Debug\net8.0\NFactorial.AssemblyInfo.cs
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\obj\Debug\net8.0\NFactorial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\obj\Debug\net8.0\NFactorial.sourcelink.json
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\obj\Debug\net8.0\NFactorial.dll
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\obj\Debug\net8.0\refint\NFactorial.dll
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\obj\Debug\net8.0\NFactorial.pdb
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\obj\Debug\net8.0\NFactorial.genruntimeconfig.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\NFactorial\obj\Debug\net8.0\ref\NFactorial.dll
