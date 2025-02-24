@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MathTutorApp\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\Division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MathTutorApp\\Division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\Multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MathTutorApp\\Multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\TutorApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MathTutorApp\\TutorApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\Division.cs",
+              "RelativeDocumentMoniker": "MathTutorApp\\Division.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\Division.cs",
+              "RelativeToolTip": "MathTutorApp\\Division.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:59:44.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\Student.cs",
+              "RelativeDocumentMoniker": "MathTutorApp\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\Student.cs",
+              "RelativeToolTip": "MathTutorApp\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:00:00.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Multiplication.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\Multiplication.cs",
+              "RelativeDocumentMoniker": "MathTutorApp\\Multiplication.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\Multiplication.cs",
+              "RelativeToolTip": "MathTutorApp\\Multiplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:58:17.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TutorApp.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\TutorApp.cs",
+              "RelativeDocumentMoniker": "MathTutorApp\\TutorApp.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\COP3855-Web-Systems-UNF\\MathTutorApp\\TutorApp.cs",
+              "RelativeToolTip": "MathTutorApp\\TutorApp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:57:14.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
