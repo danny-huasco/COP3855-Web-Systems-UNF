@@ -7,6 +7,8 @@ namespace MathTutorApp
         {
             string name, grade, res;
             bool i = true;
+            int contM=0, contMC=0, contD=0, contDC=0;
+
             //welcome menu
             Console.WriteLine("Welcome to the Multiplication and Division Tutor App! \n");
             Console.WriteLine("This app will ask questions on basic multiplication and division skills that an elementary student should master. \n");
@@ -37,35 +39,50 @@ namespace MathTutorApp
                     if (res == "1")
                     {
                         Multiplication mult = new Multiplication();
-                        mult.Multiply();
+                        contMC = mult.Multiply(name, grade, contMC);
                         //display results
+                        contM++;
+
                     }
                     else
                     {
                         Division div = new Division();
-                        div.Divide();
+                        contDC = div.Divide(name, grade, contDC);
                         //display results
+                        contD++;
                     }
                     //ask user if they want to continue
-                    Console.WriteLine("Do you want to continue? [Y/N]");
+                    Console.WriteLine("Would you like to try again? [Y/N]");
                     res = Console.ReadLine();
                     if (res == "N" || res == "n")
                     {
                         i = false;
-                        Console.WriteLine("Thank you for using the Math Tutor App. Goodbye!");
-                        //log results and operations
+                        //log results and operations based on problems solved
+                        if (contM > 0)
+                        {
+                            Console.WriteLine("You solved " + contM + " multiplication problems and " + contMC + " were correct. \n");
+                        }
+                        else
+                        {
+                            Console.WriteLine("You did not attempt any multiplication problems. \n");
+                        }
+
+                        if (contD > 0)
+                        {
+                            Console.WriteLine("You solved " + contD + " division problems and " + contDC + " were correct. \n");
+                        }
+                        else
+                        {
+                            Console.WriteLine("You did not attempt any division problems. \n");
+                        }
                     }
                     else
                     {
                         Console.Clear();
                     }
-                }
-                //display results
-                
-                //wanna do it again?        
+                }      
             }
         }
-    }
     }
 }
 

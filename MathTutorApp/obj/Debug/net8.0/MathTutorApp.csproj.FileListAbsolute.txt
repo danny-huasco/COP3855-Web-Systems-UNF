@@ -3,3 +3,8 @@ C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\MathTutorApp\obj\Debug\net8.0\
 C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\MathTutorApp\obj\Debug\net8.0\MathTutorApp.AssemblyInfo.cs
 C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\MathTutorApp\obj\Debug\net8.0\MathTutorApp.csproj.CoreCompileInputs.cache
 C:\Users\danie\Escritorio\COP3855-Web-Systems-UNF\MathTutorApp\obj\Debug\net8.0\MathTutorApp.sourcelink.json
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\MathTutorApp\obj\Debug\net8.0\MathTutorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\MathTutorApp\obj\Debug\net8.0\MathTutorApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\MathTutorApp\obj\Debug\net8.0\MathTutorApp.AssemblyInfo.cs
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\MathTutorApp\obj\Debug\net8.0\MathTutorApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\COP3855-Web-Systems-UNF\MathTutorApp\obj\Debug\net8.0\MathTutorApp.sourcelink.json
