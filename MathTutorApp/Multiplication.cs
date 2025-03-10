@@ -8,7 +8,7 @@ namespace MathTutorApp
 
         public int Multiply(string name, string grade, int contador)
         {
-            Console.WriteLine("Welcome to the Multiplication Section! \n");
+            Console.WriteLine("\nWelcome to the Multiplication Section! \n");
             Console.WriteLine("You will be asked to solve 5 multiplication problems at level k-"+grade+". \n");
             Console.WriteLine("Please enter your answer after each question. \n");
             Console.WriteLine("Let's get started! \n");

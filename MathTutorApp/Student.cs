@@ -4,12 +4,12 @@ namespace MathTutorApp
     class Student
     {
         private string name;
-        private int age;
+        private string grade;
         
-        public Student(string name, int age)
+        public Student(string name, string grade)
         {
             this.name = name;
-            this.age = age;
+            this.grade = grade;
         }
         
         public string Name
@@ -18,16 +18,16 @@ namespace MathTutorApp
             set { name = value; }
         }
         
-        public int Age
+        public string Grade
         {
-            get { return age; }
-            set { age = value; }
+            get { return grade; }
+            set { grade = value; }
         }
         
         public void toString()
         {
             Console.WriteLine("Name: " + name);
-            Console.WriteLine("Age: " + age);
+            Console.WriteLine("Age: " + grade);
         }
     }
 }

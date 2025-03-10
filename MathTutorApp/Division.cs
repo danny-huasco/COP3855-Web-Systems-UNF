@@ -7,13 +7,13 @@ namespace MathTutorApp
 
         public int Divide(string name, string grade, int contador)
         {
-            Console.WriteLine("Welcome to the Division Section! \n");
+            Console.WriteLine("\nWelcome to the Division Section! \n");
             Console.WriteLine("You will be asked to solve 3 division problems at level k-" + grade + ". \n");
             Console.WriteLine("Please enter your answer after each question. \n");
             Console.WriteLine("Let's get started! \n");
 
             Random rand = new Random();
-            int num1, num2;
+            double num1, num2;
             //loop 3 times
             for (int i = 0; i < 3; i++)
             {
@@ -23,10 +23,10 @@ namespace MathTutorApp
                 //calculate
                 double result = Math.Round((num1 / num2), 2);
                 //ask question
-                Console.WriteLine("What is " + num1 + " divided by " + num2 + "?");
-                int userAnswer = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("What is {0:f2} divided by {1:f2} ?", num1, num2);
+                double userAnswer = Math.Round(Convert.ToDouble(Console.ReadLine()), 2);
                 //compare with user's answer up to 2 decimal points
-                if (Math.Round(userAnswer, 2) == result)
+                if (userAnswer == result)
                 {
                     Console.WriteLine("Correct, " + name + "! \n");
                     contador++;

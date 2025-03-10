@@ -5,7 +5,7 @@ namespace MathTutorApp
     {
         public static void Main()
         {
-            string name, grade, res;
+            string name="", grade="", res="";
             bool i = true;
             int contM=0, contMC=0, contD=0, contDC=0;
 
@@ -60,7 +60,7 @@ namespace MathTutorApp
                         //log results and operations based on problems solved
                         if (contM > 0)
                         {
-                            Console.WriteLine("You solved " + contM + " multiplication problems and " + contMC + " were correct. \n");
+                            Console.WriteLine("You solved " + contM*5 + " multiplication problems and " + contMC + " were correct. \n");
                         }
                         else
                         {
@@ -69,12 +69,13 @@ namespace MathTutorApp
 
                         if (contD > 0)
                         {
-                            Console.WriteLine("You solved " + contD + " division problems and " + contDC + " were correct. \n");
+                            Console.WriteLine("You solved " + contD*3 + " division problems and " + contDC + " were correct. \n");
                         }
                         else
                         {
                             Console.WriteLine("You did not attempt any division problems. \n");
                         }
+                        Console.ReadKey();
                     }
                     else
                     {
