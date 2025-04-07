@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Books";
+    var libros = ViewBag.books;
+}
+
+<!-- component body of home page-->
+<div class="container-fluid">
+    <div class="container row" id="bookshelf">
+        @if (libros != null)
+        {
+            @foreach (var libro in libros)
+            {
+                <a href="https://localhost:7068/Books/@libro.isbn" class="col-lg-3">
+                    <!--usar referencia a port number para generar url desde cada etiqueta A-->
+                    <div class="card" id="@libro.isbn">
+                        <img src="@libro.photo" class="card-img-top" alt="Book cover">
+                        <div class="card-body">
+                            <h5 class="card-title">@libro.title</h5>
+                            <p class="card-text">Author: @libro.author</p>
+                            <p class="card-text">ISBN: @libro.isbn</p>
+                            <p class="card-text">Price: $@libro.price</p>
+                        </div>
+                    </div>
+                </a>
+            }
+        }
+    </div>
+</div>

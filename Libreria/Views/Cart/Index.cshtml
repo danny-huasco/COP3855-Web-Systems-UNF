@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Your Cart";
+    var items = ViewBag.Items;
+    double subt = ViewBag.Sub;
+    double tax = Math.Round(subt * 0.075,2);
+    double total = Math.Round(subt + tax, 2);
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Shopping Cart</h2>
+    <a asp-controller="Book" asp-action="Index" role="button" class="btn btn-lg btn-outline-info mb-4">Keep Shopping</a>
+    <div class="row">
+        <div class="col-md-8">
+            <div class="list-group">
+                @if(items.Count==0){<p>This car is empty...we need some books to fill it up!</p>}   
+                else{
+                    @foreach (var item in items)
+                    {
+                        <div class="list-group-item d-flex justify-content-between align-items-center">
+                            <div>
+                                <h5 class="mb-1">@item.title</h5>
+                                <p class="mb-1">@item.author</p>
+                                <small>@item.isbn</small>
+                            </div>
+                            <div>
+                            <span class="badge bg-primary rounded-pill">$@item.price</span>
+                            <a asp-controller="Cart" asp-action="RemoveItem" asp-route-id="@item.isbn" class="badge bg-danger rounded-pill">Remove</a>
+                            </div>
+                        </div>
+                    }    
+                }
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h4>Order Summary</h4>
+            <h5>Sub Total: @subt</h5>
+            <h5>Tax: @tax</h5>
+            <h5>Total: @total</h5>
+            <h4>Payment Options</h4>
+            <form>
+                <div class="mb-3">
+                    <label for="cardNumber" class="form-label">Card Number</label>
+                    <input type="text" class="form-control" id="cardNumber" placeholder="Enter card number">
+                </div>
+                <div class="mb-3">
+                    <label for="expiryDate" class="form-label">Expiry Date</label>
+                    <input type="text" class="form-control" id="expiryDate" placeholder="MM/YY">
+                </div>
+                <div class="mb-3">
+                    <label for="cvv" class="form-label">CVV</label>
+                    <input type="text" class="form-control" id="cvv" placeholder="Enter CVV">
+                </div>
+                <button type="submit" class="btn btn-success w-100">Checkout</button>
+            </form>
+        </div>
+    </div>
+</div>
